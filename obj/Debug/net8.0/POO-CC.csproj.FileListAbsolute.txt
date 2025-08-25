@@ -1,0 +1,15 @@
+C:\Users\realt\POO-CC\bin\Debug\net8.0\POO-CC.exe
+C:\Users\realt\POO-CC\bin\Debug\net8.0\POO-CC.deps.json
+C:\Users\realt\POO-CC\bin\Debug\net8.0\POO-CC.runtimeconfig.json
+C:\Users\realt\POO-CC\bin\Debug\net8.0\POO-CC.dll
+C:\Users\realt\POO-CC\bin\Debug\net8.0\POO-CC.pdb
+C:\Users\realt\POO-CC\obj\Debug\net8.0\POO-CC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\realt\POO-CC\obj\Debug\net8.0\POO-CC.AssemblyInfoInputs.cache
+C:\Users\realt\POO-CC\obj\Debug\net8.0\POO-CC.AssemblyInfo.cs
+C:\Users\realt\POO-CC\obj\Debug\net8.0\POO-CC.csproj.CoreCompileInputs.cache
+C:\Users\realt\POO-CC\obj\Debug\net8.0\POO-CC.sourcelink.json
+C:\Users\realt\POO-CC\obj\Debug\net8.0\POO-CC.dll
+C:\Users\realt\POO-CC\obj\Debug\net8.0\refint\POO-CC.dll
+C:\Users\realt\POO-CC\obj\Debug\net8.0\POO-CC.pdb
+C:\Users\realt\POO-CC\obj\Debug\net8.0\POO-CC.genruntimeconfig.cache
+C:\Users\realt\POO-CC\obj\Debug\net8.0\ref\POO-CC.dll
